@@ -16,15 +16,12 @@ class Solution(object):
 
         ans = False
 
-        while slow and fast.next:
+        while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
 
-            if slow and fast:
-                if slow == fast:
+            if slow == fast:
                     return True
-            else:
-                break
         return ans
 
         
