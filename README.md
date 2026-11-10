@@ -15,6 +15,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tony310199/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/tony310199/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
@@ -24,4 +25,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tony310199/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/tony310199/LeetCode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
