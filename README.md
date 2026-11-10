@@ -17,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/tony310199/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/tony310199/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/tony310199/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,8 +31,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/tony310199/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tony310199/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/tony310199/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tony310199/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/tony310199/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
